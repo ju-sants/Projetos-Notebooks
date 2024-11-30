@@ -33,3 +33,11 @@ Este projeto visa identificar e segmentar os clientes de um e-commerce com base 
 **NumPy:** Computação numérica.
 **Scikit-learn:** Algoritmos de machine learning.
 **Matplotlib, Seaborn, Plotly:** Visualização de dados.
+
+# Versionamento
+
+O controle de versões está completamente na plataforma **_Google Colaboratory_**, por ter mais facilidade na criação de projetos e núcleos de computação públicos.
+
+**Controle de versões:**
+
+![image](https://github.com/user-attachments/assets/1dd10b32-edb0-4a65-b236-7a81abbda4f2)
