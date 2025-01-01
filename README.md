@@ -56,12 +56,7 @@ Desenvolver uma solução para prever o número de dias atrasados na produção 
 - **Scikit-learn, XGBoost:** Modelagem.
 - **Matplotlib, Seaborn:** Visualização.
 
-**Power BI:** Dashboards para resultados.
-
-## Versionamento
-
-Controle de versões no ***GitHub***, garantindo rastreabilidade e colaboração.
-
+---
 
 
 # Clusterização e análise de Segmentação de Clientes em um E-commerce (RFM)
