@@ -1,3 +1,69 @@
+# Modelo Preditivo e Integração Web
+**Predição de Dias Atrasados para produção industrial**
+
+**Objetivo:**
+
+Desenvolver uma solução para prever o número de dias atrasados na produção industrial, utilizando dados operacionais e administrativos. O objetivo é fornecer insights acionáveis que auxiliem na otimização de processos e na tomada de decisões estratégicas, reduzindo atrasos e melhorando a eficiência geral.
+
+## Metodologia:
+
+### **Preparação dos Dados:**
+
+**Exploração:**
+
+- Visualizações (histogramas, heatmaps, scatter plots) para correlações e tendências.
+- Investigação de outliers e inconsistências.
+
+**Limpeza:**
+
+- Remoção de duplicatas e dados nulos.
+- Identificação de variáveis irrelevantes.
+
+**Feature Engineering:**
+
+- Criação e padronização de variáveis críticas.
+
+### **Modelagem Preditiva:**
+
+**Divisão de Dados:**
+
+- Conjuntos de treino e teste (80/20) com validação cruzada.
+
+**Modelos:**
+
+- Testes com Regressão Linear, Random Forest, Gradient Boosting e Redes Neurais.
+- Avaliação via RMSE, MAE e R².
+
+**Seleção:**
+
+- Escolha baseada em desempenho estatístico e aplicabilidade.
+
+### **Resultados:**
+
+**Insights:**
+
+- Identificação de variáveis-chave e comparação entre previsões e dados reais.
+
+**Visualizações:**
+
+- Gráficos de previsões e erros residuais.
+
+### Tecnologias Utilizadas:
+
+**Python:**
+
+- **Pandas, NumPy:** Manipulação de dados.
+- **Scikit-learn, XGBoost:** Modelagem.
+- **Matplotlib, Seaborn:** Visualização.
+
+**Power BI:** Dashboards para resultados.
+
+## Versionamento
+
+Controle de versões no ***GitHub***, garantindo rastreabilidade e colaboração.
+
+
+
 # Clusterização e análise de Segmentação de Clientes em um E-commerce (RFM)
 
 **Objetivo:**
