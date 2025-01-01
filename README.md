@@ -36,7 +36,7 @@ Este projeto visa identificar e segmentar os clientes de um e-commerce com base 
 
 # Versionamento
 
-O controle de versões está completamente na plataforma **_Google Colaboratory_**, por ter mais facilidade na criação de projetos e núcleos de computação públicos.
+O controle de versões está completamente na plataforma **_Google Colaboratory_**.
 
 **Controle de versões:**
 
