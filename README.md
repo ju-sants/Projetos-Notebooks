@@ -1,5 +1,4 @@
-# Modelo Preditivo e Integração Web
-**Predição de Dias Atrasados para produção industrial**
+# Predição de Dias Atrasados na Produção Industrial
 
 **Objetivo:**
 
@@ -38,6 +37,20 @@ Desenvolver uma solução para prever o número de dias atrasados na produção 
 
 - Escolha baseada em desempenho estatístico e aplicabilidade.
 
+### **Desenvolvimento de App Web:**
+
+**Flask:**
+
+- Implementação de um pequeno app web para facilitar o uso do modelo preditivo por stakeholders.
+- Funcionalidades:
+  - Upload de arquivos CSV contendo novos dados.
+  - Visualização de previsões geradas pelo modelo em tempo real.
+  - Relatórios resumidos dos resultados diretamente na interface.
+
+**Integração:**
+
+- Deployment do app para permitir acessibilidade e uso colaborativo.
+
 ### **Resultados:**
 
 **Insights:**
@@ -55,6 +68,10 @@ Desenvolver uma solução para prever o número de dias atrasados na produção 
 - **Pandas, NumPy:** Manipulação de dados.
 - **Scikit-learn, XGBoost:** Modelagem.
 - **Matplotlib, Seaborn:** Visualização.
+
+**Flask:**
+
+- Desenvolvimento do app web.
 
 ---
 
