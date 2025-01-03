@@ -43,7 +43,7 @@ Desenvolver uma solução para prever o número de dias atrasados na produção 
 
 - Implementação de um pequeno app web para facilitar o uso do modelo preditivo por stakeholders.
 - Funcionalidades:
-  - Upload de arquivos CSV contendo novos dados.
+  - Upload de arquivos CSV contendo novos dados. -> Futuro
   - Visualização de previsões geradas pelo modelo em tempo real.
   - Relatórios resumidos dos resultados diretamente na interface.
 
@@ -59,7 +59,7 @@ Desenvolver uma solução para prever o número de dias atrasados na produção 
 
 **Visualizações:**
 
-- Gráficos de previsões e erros residuais.
+- Gráficos de previsões e erros residuais. -> futuro
 
 ### Tecnologias Utilizadas:
 
